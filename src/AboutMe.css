@@ -1,0 +1,89 @@
+.parallax { 
+    background-image: url('https://i.vimeocdn.com/video/633694520_780x439.jpg');
+    height: 450px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    width: 100%;
+    height:50px;
+    background-color:pink;
+    font-size:20px;
+    padding: 10px;
+}
+.parallax1 {
+    background-image: url('https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/29695023_10208951964715654_2180904116720919843_n.jpg?_nc_cat=0&_nc_eui2=AeHpvubLMZ6Xnc_C8xA56pB4xnelDXudM-Rl0a_qbPKW_00MpwcO07Hf0wiszItQh-9MoGKRIf404tez4b6r_qVOmkeChVIx0izwemPlt0pkww&oh=ade692412daa3e7b1f3fb52c52a478be&oe=5BB90274');
+    height: 450px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
+    background-image: url('https://scontent.fsnc1-1.fna.fbcdn.net/v/t31.0-8/18589067_10207049015143104_3026850206994019886_o.jpg?_nc_cat=0&_nc_eui2=AeEzDfnGPxvX_vjWRNt1VRVAouIuZdfXRliy_h8UjtPjP3SVh670gDZUAo8R0lojEf7s7WuGDVptmFE8lHdzUYx6sIx8U2INx8XVHbQDuXi9tA&oh=37ba98abba8f8c9f0405b037751e543b&oe=5BB53400');
+    height: 550px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+    background-image: url('https://scontent.fsnc1-1.fna.fbcdn.net/v/t31.0-8/18193097_1936387283273182_2695674200881701501_o.jpg?_nc_cat=0&oh=2bab1225f93a85f9e38681adf1f95cef&oe=5BB73BC4');
+    height: 550px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax4 {
+    background-image: url('https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/20374475_10207530904510037_3523624888341959593_n.jpg?_nc_cat=0&_nc_eui2=AeHPu7lfuus_Nzhdsq_tn-DcLQnQIl-ekpiVLMBJsf2lF8VAubsdolQIsFFZifPd0z9MIgnk-7lwQRwa_tdyL1U2knyHsYT6DDcCJz8KIfZdjg&oh=cc14c2ae956506f595a16d2ec24c163b&oe=5B80C9B4');
+    height: 430px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax5 {
+    background-image: url('https://heliotraining.com/wp-content/uploads/2016/02/IMG_2390-1024x683.jpg');
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax6 {
+    background-image: url('https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/26904232_10208444872398663_4742583338718571702_n.jpg?_nc_cat=0&oh=314dad85b26850612e0fce7a9db4849f&oe=5B7BF8D7');
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax7 {
+    background-image: url('https://www.vietnamgrouptour.com/images/companies/1/viet-MMAP-md.png?1479098539666');
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home-icon {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    
+}
+.icon-direction-down {
+    width: 80px;
+    height: 80px;
+    padding: 1px;
+    
+}
+.blossom-background {
+    background-image: url("https://media2.giphy.com/media/97FsJS6ZvOwCc/200.gif")
+    
+  }
