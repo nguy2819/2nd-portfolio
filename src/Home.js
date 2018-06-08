@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import './Home.css'
+import MyWorks from './MyWorks'
+import ContactMe from './ContactMe'
 
 
 
@@ -9,6 +11,15 @@ class Home extends Component {
     render() {
         return (
             <div>
+                <Link to="./AboutMe">
+                <img class="aboutme-icon" src="https://www.powerinthegroup.com/wp-content/uploads/2016/12/testimonial_headshot_Smita_208_201x210.png"/>
+                </Link>
+                <Link to="./MyWorks">
+                <img class="myworks-icon" src="http://www.edubizsoft.com/images/icons/code-icon-script.png"/>
+                </Link>
+                <Link to="./ContactMe">
+                <img class="contactme-icon" src="https://sites.google.com/a/cashton.k12.wi.us/buedding/_/rsrc/1467672862219/contact-mrs-b/contact_me_icon.png"/>
+                </Link>
                 <h1 class="tien-text">Xin chào, I am Tien Nguyen Borland</h1>
                 <h2 class="under-tien-text">And I'm a Full-Stack Web Dev</h2>
                 <h2 class="under-tien-text2">Welcome to my portfolio</h2>
